@@ -41,7 +41,7 @@ function ContactPage() {
           <div className="space-y-4">
             {[
               { icon: MapPin, label: "Address", value: "12 Mine Avenue\nZvishavane, Zimbabwe" },
-              { icon: Phone, label: "Phone", value: "+263 77 123 4567" },
+              { icon: Phone, label: "Phone", value: "0772 123 123" },
               { icon: Mail, label: "Email", value: "stay@trezia.co.zw" },
               { icon: Clock, label: "Reception", value: "07:00 — 22:00 daily" },
             ].map((d) => (
